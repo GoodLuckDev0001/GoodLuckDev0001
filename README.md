@@ -6,11 +6,11 @@
 
 - 🌱 As a Senior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
 
-- 👨‍💻 All of my projects are available at [muku534](https://github.com/muku534/)
+- 👨‍💻 All of my projects are available at [GoodLuckDev0001](https://github.com/GoodLuckDev0001/)
 
 - 📫 How to reach me **w.s.top.prof@gmail.com**
 
-- 📄 Know about my experiences [https://w-s-top.prof.vercel.app](https://w-s-top.vercel.app)
+- 📄 Know about my experiences [https://w-s-portfolio.vercel.app](https://w-s-portfolio.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
