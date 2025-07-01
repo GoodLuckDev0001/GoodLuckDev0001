@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muku534&label=Profile%20views&color=0e75b6&style=flat" alt="muku534" /> </p>
 
 
-- 🌱 As a Senior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
-
+- 🌱 As a Junior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
+- 👨‍💻 All of my projects are available at [muku534](https://github.com/muku534/)
 
 - 📫 How to reach me **w.s.top.prof@gmail.com**
 
