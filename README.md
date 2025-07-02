@@ -17,13 +17,9 @@
   </div>
 
   <p align="center">
-    <a href="https://github.com/Saksham-Goel1107?tab=repositories" target="_blank">
       <img alt="Explore Projects" src="https://img.shields.io/badge/Explore_Projects-%23FF4B2B.svg?style=for-the-badge">
-    </a>
     <img width="12"/>
-    <a href="https://www.linkedin.com/in/saksham-goel-88b74b33a/">
-      <img alt="Let's Connect" src="https://img.shields.io/badge/Let's_Connect-%234285F4.svg?style=for-the-badge">
-    </a>
+    <img alt="Let's Connect" src="https://img.shields.io/badge/Let's_Connect-%234285F4.svg?style=for-the-badge">
   </p>
 </div>
 
