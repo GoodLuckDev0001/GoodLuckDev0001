@@ -1,7 +1,40 @@
-<h1 align="center">Hi 👋, I'm Willams Smith</h1>
-<h3 align="center">Full-Stack and Building Mobile Apps with React Native: A Senior Developer's Experience</h3>
+<div align="center">
 
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  Welcome to My GitHub Profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%92%AF;Let's+Code+Together+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  <b>Innovating, building, and sharing code with passion.</b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+</h3>
+
+<div>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<p align="center">
+  <a href="https://github.com/Saksham-Goel1107?tab=repositories" target="_blank">
+    <img alt="Explore Projects" src="https://img.shields.io/badge/Explore_Projects-%23FF4B2B.svg?style=for-the-badge">
+  </a>
+  <img width="12"/>
+  <a href="https://www.linkedin.com/in/saksham-goel-88b74b33a/">
+    <img alt="Let's Connect" src="https://img.shields.io/badge/Let's_Connect-%234285F4.svg?style=for-the-badge">
+  </a>
+</p>
+<div align="center">
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Animated Coding Dino" height="160" />
+
+</div>
 
 - 🌱 As a Junior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
 - 👨‍💻 All of my projects are available at [GoodLuckDev0001](https://github.com/GoodLuckDev0001/)
