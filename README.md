@@ -1,35 +1,30 @@
 <div align="center">
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  Welcome to My GitHub Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-</h1>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+    Welcome to My GitHub Profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  </h1>
 
-<h3>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
-  <b>Innovating, building, and sharing code with passion.</b>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
-</h3>
+  <h3>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+    <b>Innovating, building, and sharing code with passion.</b>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24" />
+  </h3>
 
-<div>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+  <div>
+    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  </div>
 
-<p align="center">
-  <a href="https://github.com/Saksham-Goel1107?tab=repositories" target="_blank">
-    <img alt="Explore Projects" src="https://img.shields.io/badge/Explore_Projects-%23FF4B2B.svg?style=for-the-badge">
-  </a>
-  <img width="12"/>
-  <a href="https://www.linkedin.com/in/saksham-goel-88b74b33a/">
-    <img alt="Let's Connect" src="https://img.shields.io/badge/Let's_Connect-%234285F4.svg?style=for-the-badge">
-  </a>
-</p>
-<div align="center">
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Animated Coding Dino" height="160" />
-
+  <p align="center">
+    <a href="https://github.com/Saksham-Goel1107?tab=repositories" target="_blank">
+      <img alt="Explore Projects" src="https://img.shields.io/badge/Explore_Projects-%23FF4B2B.svg?style=for-the-badge">
+    </a>
+    <img width="12"/>
+    <a href="https://www.linkedin.com/in/saksham-goel-88b74b33a/">
+      <img alt="Let's Connect" src="https://img.shields.io/badge/Let's_Connect-%234285F4.svg?style=for-the-badge">
+    </a>
+  </p>
 </div>
 
 - 🌱 As a Junior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
