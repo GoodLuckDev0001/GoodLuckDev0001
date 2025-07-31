@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **w.s.top.prof@gmail.com**
 
-- 📄 Know about my experiences [https://w-s-portfolio.vercel.app](https://w-s-portfolio.vercel.app)
+- 📄 Know about my experiences [https://my-portfolio-ahmad-faizal0001.vercel.app/](https://my-portfolio-ahmad-faizal0001.vercel.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
