@@ -23,7 +23,6 @@
   </p>
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=GoodLuckDev0001&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 - 🌱 As a Senior React Native Developer, I’m actively learning React Native, Native Android, and Next.js to enhance my skills and stay up-to-date with industry trends.**
 - 👨‍💻 All of my projects are available at [GoodLuckDev0001](https://github.com/GoodLuckDev0001/)
